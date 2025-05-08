@@ -38,7 +38,8 @@ body {
   }
   
   .card {
-    background-color: white;
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%)
     padding: 2rem;
     margin: 1rem 0;
     border-radius: 10px;
@@ -68,7 +69,8 @@ body {
   
   .footer {
     text-align: center;
-    background-color: #2A7B9B;
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%)
     color: white;
     padding: 1rem;
     margin-top: 2rem;
