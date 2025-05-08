@@ -47,7 +47,7 @@ body {
   
   .card h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #9edb34;
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
   }
@@ -58,7 +58,7 @@ body {
   }
   
   a {
-    color: #3498db;
+    color: #9edb34;
     text-decoration: none;
   }
   
